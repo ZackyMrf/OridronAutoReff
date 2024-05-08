@@ -7,9 +7,10 @@ https://t.me/AirDropFamilyIDN
 - git clone https://github.com/AirDropFamilyIDN/OridronAutoReff.git
 - cd OridronAutoReff
 - pip install -r requirements.txt
-- setting apikey 2captcha, phpsessionid, kodereff
-ada di file config.py
 - python oridronreffauto.py
+
+Setting apikey 2captcha, phpsessionid, kodereff
+ada di file config.py
 
 Cara ambil cookie phpsessionid
 - F12 => Network => cari profile => Headers => Request Headers => Cookie => PHPSESSID=xxxxxxxxxx
