@@ -11,6 +11,9 @@ https://t.me/AirDropFamilyIDN
 ada di file config.py
 - python oridronreffauto.py
 
+Cara ambil cookie phpsessionid
+- F12 => Network => cari profile => Headers => Request Headers => Cookie => PHPSESSID=xxxxxxxxxx
+
 NOTED :
 - Log data account ada di file oridronreffauto.py.log.txt
 - API 2captcha bisa kalian beli sendiri, minimal deposit 3$ disini https://2captcha.com/ bisa pake kripto
