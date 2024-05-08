@@ -1,0 +1,7 @@
+requests
+web3
+fake_useragent
+bs4
+faker
+twocaptcha
+2captcha-python
